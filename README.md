@@ -1,6 +1,7 @@
 ### Inclusion criteria
-WOS quartile in neuroscience and/or psychology <2.  
-Subscription-based model or optional open-access.
+* WOS quartile in neuroscience and/or psychology <2.  
+* Subscription-based model or optional open-access.
+* No Frontiers or MDPI journals
 
 | Journal name | 2018 IF | Largest Q | Largest Q field | Second largest Q field | Journal website | Preprint policy | Articles per year |
 |--------------|---------|-----------|-----------------|------------------------|-----------------|-----------------|-------------------|
